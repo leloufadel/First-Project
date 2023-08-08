@@ -131,7 +131,7 @@ Example command:
 ### Deployment
 
 You can deploy this project using:
- https://leloufadel.github.io/Fake-Cloth-Store/
+https://leloufadel.github.io/First-Project/
 
 <!--
 Example:
